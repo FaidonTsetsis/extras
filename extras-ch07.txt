@@ -3,6 +3,10 @@
 
 ![](cs-unix.md){.include}
 
+## Η περίπτωση του ασύρματου Apple Mouse
+
+![](cs-apple-wireless.md){.include}
+
 ## Η περίπτωση της κονσόλας βιντεοπαιχνιδιών
 
 ![](cs-consoles.md){.include}
@@ -10,5 +14,9 @@
 ## Σύντομη βιογραφία του Jef Raskin
 
 ![](bio-raskin.md){.include}
+
+## Σύντομη βιογραφία του George Gerpheide
+
+![](bio-gerpheide.md){.include}
 
 ## Βιβλιογραφία
